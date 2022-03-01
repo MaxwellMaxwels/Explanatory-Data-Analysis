@@ -1,1 +1,1 @@
-# Data Analysis
+# EDA ft Logistic Regression
