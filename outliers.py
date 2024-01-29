@@ -15,7 +15,6 @@ def detect_outliers(data):
     mean = np.mean(data)
     std =np.std(data)
     
-    
     for i in data:
         z_score= (i - mean)/std 
         if np.abs(z_score) > threshold:
