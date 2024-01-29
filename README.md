@@ -1,1 +1,1 @@
-# EDA ft Logistic Regression
+# EDA, outlier detection and Logistic Regression
